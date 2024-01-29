@@ -1,0 +1,23 @@
+asd's Marks Card 
+--------------------------------------------------------
+adsasd:
+--------------------------------------------------------
+
+Student Name: asd
+Student Rollno: 3454
+Student School/college Name: 
+--------------------------------------------------------
+Student Marks in Physics: 45 / 70
+Student Marks in Chemistry: 45 / 70
+Student Marks in Maths: 45 / 80
+Student Marks in Biology: 45 / 70
+Student Marks in Kannada: 45 / 70
+Student Marks in English: 45 / 70
+--------------------------------------------------------
+Total Marks: 270 / 450
+Percentage: 60%
+--------------------------------------------------------
+Grade: B
+Result: Pass
+--------------------------------------------------------
+
